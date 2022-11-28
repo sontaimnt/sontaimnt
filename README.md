@@ -4,7 +4,5 @@
 - 🌱 I’m currently learning C
 - 💬 Ask me about Linux/Python
 - 📫 How to reach me: sontaimnt@gmail.com
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sontaimnt"/>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sontaimnt" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sontaimnt&theme=default" />
