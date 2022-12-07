@@ -7,4 +7,4 @@
 
 # My Stats:-
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sontaimnt&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sontaimnt&theme=gruvbox)
