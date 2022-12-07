@@ -6,5 +6,6 @@
 - 📫 How to reach me: sontaimnt@gmail.com
 
 # My Stats:-
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sontaimnt&theme=gruvbox)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sontaimnt&theme=gruvbox">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sontaimnt&theme=gruvbox">
