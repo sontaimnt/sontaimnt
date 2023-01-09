@@ -1,6 +1,12 @@
-### Hi there 👋
+<h1 align=center> Hi there 👋 </h1>
 
-- 🔭 I’m currently working on `AppImage-Manager`(A tool for managing appimages)
-- 🌱 I’m currently learning C
-- 💬 Ask me about Linux/Python
-- 📫 How to reach me: sontaimnt@gmail.com
+<p align="center"> I am sontaimnt , a student who is intrested in technical stuff... </p>
+
+
+# Programming Languages(i know..):-
+
+<img src="https://skillicons.dev/icons?i=bash,python,julia,dart" />
+
+# Tools:-
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode" />
